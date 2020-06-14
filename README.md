@@ -5,6 +5,6 @@
 
 
 ### Works Cited
-US Census Bureau | https://www.catchdesmoines.com/media/des-moines-rankings/
-CensusReporter.org | https://censusreporter.org/profiles/16000US1921000-des-moines-ia/
-Des Moines Tourism Department | https://www.catchdesmoines.com/
+- US Census Bureau | https://www.catchdesmoines.com/media/des-moines-rankings/
+- CensusReporter.org | https://censusreporter.org/profiles/16000US1921000-des-moines-ia/
+- Des Moines Tourism Department | https://www.catchdesmoines.com/
