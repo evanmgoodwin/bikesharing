@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis
 
-[Click here to view Tableau Story](https://www.google.com/)
+[Click here to view Tableau Story](https://public.tableau.com/profile/evan.goodwin#!/vizhome/Challenge_15921091789030/Challenge?publish=yes)
 
 ## Introduction
 
