@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis
 
-[https://www.google.com/]("link to dashboard")
+[click here]("https://www.google.com/")
 
 ## Introduction
 
