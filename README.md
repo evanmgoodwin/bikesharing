@@ -4,9 +4,11 @@
 
 ## Introduction
 
-
+What is the population of Des Moines. What are it's demographics? What does it's tourism industry look like? How popular is biking within and around the city? These are the questions we will answer today, and those answers will show you why investing in a bike-share business in Des Moines isn a worthy investment.
 
 ## User Type
+
+
 
 ## Age
 
