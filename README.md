@@ -4,7 +4,23 @@
 
 ## Introduction
 
+## User Type
 
+## Age
+
+## Gender
+
+## Subscribers vs Customers
+
+## NYC Locations
+
+## Tourism
+
+## Downtown Des Moines
+
+## Biking Trails
+
+## Conclusion
 
 ### Works Cited
 - US Census Bureau | https://www.catchdesmoines.com/media/des-moines-rankings/
