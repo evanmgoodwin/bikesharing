@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis
 
-[click here](https://www.google.com/)
+[Click here to view Tableau Story](https://www.google.com/)
 
 ## Introduction
 
